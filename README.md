@@ -5,12 +5,12 @@
 
 ---
 
-## 📌 O Desafio
+##  O Desafio
 > *"Como construir uma relação mais consciente entre tecnologia e educação em um mundo cada vez mais conectado e cheio de distrações?"*
 
 A educação atual enfrenta uma grande fragmentação: o estudante participa da aula, mas ao chegar em casa se sente perdido, sem saber o que estudar, o que revisar ou como acompanhar a própria evolução. O excesso de distrações digitais piora essa desconexão.
 
-## 💡 A Solução
+##  A Solução
 O **Foco** é uma plataforma educacional (voltada ao ensino fundamental, médio e vestibulares) que cria uma ponte funcional entre o aprendizado presencial e o estudo autônomo. 
 
 Através de uma interface limpa, moderna e sem distrações, a plataforma responde de forma rápida a 4 perguntas essenciais do estudante:
@@ -21,12 +21,12 @@ Através de uma interface limpa, moderna e sem distrações, a plataforma respon
 
 ---
 
-## 🔄 Ciclo de Aprendizagem (Fluxo Principal)
+## Ciclo de Aprendizagem (Fluxo Principal)
 AULA ➔ ATIVIDADE INTERATIVA ➔ FEEDBACK ➔ RESULTADO ➔ ROADMAP ➔ REVISÃO ➔ PROGRESSO
 
 ---
 
-## 📱 Telas do MVP (Responsivas)
+##  Telas do MVP (Responsivas)
 
 Este repositório contém os wireframes e especificações das **6 telas principais** do MVP, projetados para **Desktop (1440px)**, **Tablet (768px)** e **Mobile (390px)**:
 
@@ -39,7 +39,7 @@ Este repositório contém os wireframes e especificações das **6 telas princip
 
 ---
 
-## 🎨 Identidade Visual e Guia de Estilo
+##  Identidade Visual e Guia de Estilo
 
 * **Filosofia:** Interface limpa, minimalista, moderna, focada em UX e acessibilidade, reduzindo a carga cognitiva.
 * **Cores:**
@@ -50,7 +50,7 @@ Este repositório contém os wireframes e especificações das **6 telas princip
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+##  Tecnologias e Ferramentas
 
 * **Design / Wireframes:** Figma (Wireframes responsivos e protótipo navegável)
 * **Documentação:** Markdown / GitHub
@@ -65,6 +65,6 @@ Este repositório contém os wireframes e especificações das **6 telas princip
 
 ---
 
-## 📄 Licença
+##  Licença
 
 Este projeto foi desenvolvido exclusivamente para fins de avaliação no **Hackatudo 2026**.
