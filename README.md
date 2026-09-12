@@ -60,7 +60,7 @@ Este repositório contém os wireframes e especificações das **6 telas princip
 ## 👥 Equipe
 
 * **[Nome]** - - [@usuario](https://github.com/seu-usuario)
-* **[Nome]** - - [@usuario1](https://github.com/usuario-colega1)
+* **[Nome]** - - [@usuario](https://github.com/usuario-colega1)
 * **[Nome]** - - [@usuario](https://github.com/usuario-colega2)
 
 ---
